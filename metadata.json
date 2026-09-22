@@ -1,0 +1,6 @@
+{
+  "name": "Catalytic Event Microscopy",
+  "description": "AI-guided operando 4D electron microscopy platform correlating single-atom Pt trajectories, spectroscopy, and mass spectrometry for causal activity mapping and active catalyst stabilization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
